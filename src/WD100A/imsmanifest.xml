@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5ZIURc65jlL" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">WD100A Prototype</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="WD100A_Prototype_ORG">
+    <organization identifier="WD100A_Prototype_ORG">
+      <title>WD100A Prototype</title>
+      <item identifier="WD100A_Prototype_SCO" isvisible="true" identifierref="__5ZIURc65jlL_RES">
+        <title>WD100A Prototype</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5ZIURc65jlL_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5qtgjoatvqe_M_606_606.png" />
+      <file href="story_content/67pAkWIWzRU.js" />
+      <file href="story_content/6eftsIuRZ37_44100_48_0.mp3" />
+      <file href="story_content/5sGGndP7LqU_captions.js" />
+      <file href="story_content/6jDgibXFSYE_44100_48_0.mp3" />
+      <file href="story_content/635JloiNBhY_captions.js" />
+      <file href="mobile/6eUWijFo2Jy.png" />
+      <file href="story_content/6Ndy5BXHy60_44100_48_0.mp3" />
+      <file href="story_content/6e05JIcogOU_captions.js" />
+      <file href="mobile/6lWC2RGlRMj.png" />
+      <file href="story_content/6R1Apte3gLN_44100_48_0.mp3" />
+      <file href="story_content/5mLfi3BZOMx_captions.js" />
+      <file href="story_content/5sWcpX3P847_44100_48_0.mp3" />
+      <file href="story_content/5sptoB72wi6_captions.js" />
+      <file href="mobile/5yfKqE75ITY.png" />
+      <file href="story_content/6SK04uXAgpu_44100_48_0.mp3" />
+      <file href="story_content/6l6yRCCtkx7_captions.js" />
+      <file href="mobile/6AkJAz8HGCQ_P_0_0_2048_1152.jpg" />
+      <file href="story_content/6MetqgzF8TL_44100_48_0.mp3" />
+      <file href="story_content/6HDb6NtmBvd_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/6pAT0srj1HX.png" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5f0EB1WsiPv.js" />
+      <file href="html5/data/js/5qzd55NNjqn.js" />
+      <file href="html5/data/js/5w60gKWdfB1.js" />
+      <file href="html5/data/js/5znINJNFXhZ.js" />
+      <file href="html5/data/js/63gmqI7teWd.js" />
+      <file href="html5/data/js/6e9CG9vqOMb.js" />
+      <file href="html5/data/js/6oYv9njEMoD.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
